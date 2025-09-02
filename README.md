@@ -32,7 +32,25 @@
 <h2>🛠️ Инструменты</h2>
 
 <p><b>Programming and markup languages::</b><br>
-#4479A1 #4169E1 #3776AB #000000 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="60">
+<div style="display:flex; align-items:center; gap:15px; justify-content:center; flex-wrap:wrap;">
+  <!-- Python -->
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <img src="python_logo.svg" alt="Python" width="60">
+    <span style="color:#3776AB; font-weight:bold;">Python</span>
+  </div>
+
+  <!-- SQL -->
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="60">
+    <span style="color:#4479A1; font-weight:bold;">SQL</span>
+  </div>
+
+  <!-- DataLens -->
+  <div style="display:flex; flex-direction:column; align-items:center;">
+    <img src="datalens_logo.svg" alt="DataLens" width="60">
+    <span style="color:#017CEE; font-weight:bold;">DataLens</span>
+  </div>
+</div> 
 </p>
 
 <p><b>Методы анализа:</b><br>
